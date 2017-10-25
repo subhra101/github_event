@@ -3,4 +3,4 @@ This contains list of all current contributors
 
 1. Atanu Chatterjee
 2. Harsh Agarwal
-3. Deep Bhattacharjee
+3. Deep 
