@@ -4,4 +4,4 @@ This contains list of all current contributors
 1. Atanu Chatterjee
 2. Harsh Agarwal
 3. Deep Bhattacharjee
-4. Sayan Pal
+4. Cristiano Ronaldo
