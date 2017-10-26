@@ -1,3 +1,4 @@
 Anuran Pandit
 Bappaditya Das
-Deep B
+Deep Bhattacharjee
+Shivam Kumar Dubey
