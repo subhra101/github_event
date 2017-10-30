@@ -2,5 +2,6 @@ Anuran Pandit
 Bappaditya Das  
 Deep Bhattacharjee  
 Shivam Kumar Dubey  
-Arijit Das  
+Arijit Das 
 Soumik Ranjan Dasgupta  
+Subhrasankar Chatterjee 
