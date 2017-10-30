@@ -7,3 +7,4 @@ This contains list of all current contributors
 4. Cristiano Ronaldo
 5. Lionel Messi
 6. Soumik Ranjan Dasgupta
+7. Subhrasankar Chatterjee
